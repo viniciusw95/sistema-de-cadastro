@@ -2,10 +2,8 @@
 
 > Status do projeto: em desenvolvimento
 
-Para rodar esse projeto na sua máquina, por favor digite:
+Para rodar esse projeto na sua máquina, digite:
 
 ``` 
 node app.js
 ```
-
-:)
